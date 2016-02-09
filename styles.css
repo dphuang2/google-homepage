@@ -1,0 +1,66 @@
+#lga{
+  margin-top: 89px;
+  height: 233px;
+  text-align: center;
+}
+#lga img{
+  padding-top:109px;
+  width:272px;
+  margin: 10px auto;
+}
+#search{
+  padding: 0px;
+  margin: 0px;
+  width: 500px;
+  height: 33px;
+  z-index: 6;
+  left: 0px;
+  background: url("www.google.com/data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D")
+}
+.buttons #submit, #lucky{
+  height: 36px;
+  line-height: 27px;
+  color: #757575;
+  border-radius: 2px;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  text-align: center;
+  padding: 0 16px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+}
+#navbar{
+  top: -295px;
+  right: 0;
+  width: 100%;
+  font-size: 13px;
+  display: block;
+  font-family: arial, sans-serif;
+  text-align:right;
+  font-size: 13px;
+}
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+#navbar li{
+float: right;
+}
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li img{
+  background-size: 528px 68px;
+}
+li a:hover{
+background-color: #fff;
+}
